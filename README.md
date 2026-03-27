@@ -32,3 +32,8 @@ Se usan almohadillas `#`. A más almohadillas, más pequeño el título.
 * Elemento berenjena
     * Sub-elemento con sangría (tabulador)
     * Otro sub-elemento
+
+### Lista Ordenada (Pasos de instalación)
+1.  Abrir Konsole en Fedora.
+2.  Escribir `git status`.
+3.  Hacer un commit.

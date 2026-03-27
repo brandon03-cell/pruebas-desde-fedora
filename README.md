@@ -22,3 +22,13 @@ Se usan almohadillas `#`. A más almohadillas, más pequeño el título.
 * ***Negrita e Itálica***: se hace con `***texto***`.
 * ~~Tachado~~: se hace con `~~texto~~`.
 * Texto en <sub>subíndice</sub> y texto en <sup>superíndice</sup> (Usando etiquetas HTML).
+
+---
+
+## 3. Listas (Lists)
+
+### Lista Desordenada (Ubuntu vibe)
+* Elemento naranja
+* Elemento berenjena
+    * Sub-elemento con sangría (tabulador)
+    * Otro sub-elemento

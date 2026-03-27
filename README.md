@@ -37,3 +37,9 @@ Se usan almohadillas `#`. A más almohadillas, más pequeño el título.
 1.  Abrir Konsole en Fedora.
 2.  Escribir `git status`.
 3.  Hacer un commit.
+
+### Lista de Tareas (Task List)
+- [x] Configurar Git Global
+- [x] Instalar VS Code en Fedora
+- [ ] Subir el primer repositorio
+- [ ] Personalizar el perfil de GitHub

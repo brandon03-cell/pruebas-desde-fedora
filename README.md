@@ -43,3 +43,16 @@ Se usan almohadillas `#`. A más almohadillas, más pequeño el título.
 - [x] Instalar VS Code en Fedora
 - [ ] Subir el primer repositorio
 - [ ] Personalizar el perfil de GitHub
+
+---
+
+## 4. Código (Code)
+
+Para resaltar una `palabra_clave` en medio de un párrafo, usamos la tilde invertida backtick (`` ` ``).
+
+### Bloque de código con resaltado (Syntax Highlighting)
+```javascript
+// Un pequeño saludo de desarrollador Full Stack
+function helloCEI() {
+  console.log("¡Hola desde Sevilla, Brandon!");
+}

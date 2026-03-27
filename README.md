@@ -12,3 +12,13 @@ Se usan almohadillas `#`. A más almohadillas, más pequeño el título.
 ### Título 3 (H3)
 #### Título 4 (H4)
 ##### Título 5 (H5)
+
+---
+
+## 2. Énfasis de Texto (Formatting)
+
+* **Negrita**: se hace con `**texto**` o `__texto__`.
+* *Cursiva*: se hace con `*texto*` o `_texto_`.
+* ***Negrita e Itálica***: se hace con `***texto***`.
+* ~~Tachado~~: se hace con `~~texto~~`.
+* Texto en <sub>subíndice</sub> y texto en <sup>superíndice</sup> (Usando etiquetas HTML).
